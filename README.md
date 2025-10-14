@@ -1,7 +1,4 @@
 <!-- BANNER -->
-<p align="center">
-  <img src="https://github.com/MuhammadAkram69/banner/blob/main/github-banner.png" alt="Muhammad Akram | Full Stack Engineer" width="100%" />
-</p>
 
 <h1 align="center">Hey there 👋, I'm Muhammad Akram</h1>
 <h3 align="center">💻 Full Stack Engineer | MERN Stack Developer | Problem Solver </h3>
